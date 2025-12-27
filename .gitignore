@@ -4,7 +4,6 @@ __pycache__/
 
 # Data & models (DO NOT UPLOAD)
 data/
-saved_model/
 
 # Virtual environments
 venv/
