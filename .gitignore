@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data & models (DO NOT UPLOAD)
+data/
+saved_model/
+
+# Virtual environments
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
